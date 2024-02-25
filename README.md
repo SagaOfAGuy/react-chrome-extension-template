@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Chrome Extension Boilerplate
 
 ## Getting Started
@@ -39,3 +40,7 @@ Chrome extension template code is inside of the `src` folder. It contains the fo
 - Folders get flattened, static references to images from HTML do not need to be relative (i.e. `icon.png` instead of `../static/icon.png`)
 - Importing local ts/tsx/css files should be relative, since Webpack will build a dependancy graph using these paths
 - Update the manifest file as per usual for chrome related permissions, references to files in here should also be flattened and not be relative
+=======
+# react-chrome-extension-template
+Simple Chrome extension template to use react and tailwind
+>>>>>>> e23dfc90f23ae9b9a5cbf62c013cbdd18abde68c
