@@ -1,5 +1,5 @@
 # React Chrome Extension Boilerplate
-Simple Chrome extension template to use react and tailwind
+Simple boilerplate chrome extension template that can integrate using tailwind and react
 
 ## Getting Started
 
