@@ -1,5 +1,5 @@
 # React Chrome Extension Boilerplate
-Simple boilerplate chrome extension template that can integrate using tailwind and react
+Simple Chrome extension template to use react and tailwind
 
 ## Getting Started
 
@@ -13,6 +13,9 @@ Simple boilerplate chrome extension template that can integrate using tailwind a
 2. Toggle on `Developer mode` in the top right corner
 3. Click `Load unpacked`
 4. Select the entire `dist` folder
+
+
+
 
 ## Project Structure
 Chrome extension template code is inside of the `src` folder. It contains the following folders: 

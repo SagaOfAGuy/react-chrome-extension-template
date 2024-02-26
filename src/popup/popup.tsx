@@ -1,15 +1,15 @@
-import * as React from 'react'
-import { render } from 'react-dom'
+import React from 'react'
 import './popup.css'
+import Button from './Button';
+const Popup = () => {
+    return (
+        <div>
+            <h1 className="text-4xl text-red-500">Hello World</h1>
+            <br/>
+            <br/> 
+            <Button /> 
+        </div>
+    )
+};
 
-const App: React.FC<{}> = () => {
-  return (
-    <div>
-      <h1>This is a test!</h1>
-    </div>
-  )
-}
-
-const root = document.createElement('div')
-document.body.appendChild(root)
-render(<App />, root)
+export default Popup;
