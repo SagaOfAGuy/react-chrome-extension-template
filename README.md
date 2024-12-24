@@ -24,7 +24,7 @@ Chrome extension template code is inside of the `src` folder. It contains the fo
 - `options`: Contains `options.tsx` and `index.tsx`. `options.html` is generated from those 2 files when building the chrome extension
 - `popup`: Contains `popup.tsx` , `popup.css`, as well as a few starter react components that are `Button.tsx` and `MainPage.tsx`. `popup.html` is generated from those 2 files when building the chrome extension
 - `static`: Folder that contains assets like `icon.png` and the `manifest.json` file need to build the chrome extension
-- `assets`: Folder that contains the `tailwind.css` file
+- `assets`: Folder that contains the `tailwind.css` file that imports tailwindcss 
 
 ```bash
 .
